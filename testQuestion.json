@@ -1,20 +1,20 @@
 {
-  "Questions": [
+  "questions": [
     {
-      "Difficulty": "Normal",
-      "Question": "Who was the first Warchief?",
-      "Correct_answer": "Thrall",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Who was the first Warchief?",
+      "correct_answer": "Thrall",
+      "incorrect_answers": [
         "Garrosh",
         "Ner'zhul",
         "Gul'dan"
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "Who was Arthas Menethil's father?",
-      "Correct_answer": "Terenas Menethil",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "Who was Arthas Menethil's father?",
+      "correct_answer": "Terenas Menethil",
+      "incorrect_answers": [
         "Tirion Menethil",
         "Jacob Menethil",
         "Simon Menethil",
@@ -23,180 +23,180 @@
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Where is Goldshire located",
-      "Correct_answer": "Eastern Kingdoms",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Where is Goldshire located",
+      "correct_answer": "Eastern Kingdoms",
+      "incorrect_answers": [
         "Kalimdor"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Which boss drops Invincible's Reins",
-      "Correct_answer": "The Lich King",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Which boss drops Invincible's Reins",
+      "correct_answer": "The Lich King",
+      "incorrect_answers": [
         "Illidan Stormrage",
         "Gul'dan",
         "Sindragosa"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Where did the orcs originally come from?",
-      "Correct_answer": "Draenor",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Where did the orcs originally come from?",
+      "correct_answer": "Draenor",
+      "incorrect_answers": [
         "Outland",
         "Azeroth",
         "Twisting Nether"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Which game company developed World of Warcraft?",
-      "Correct_answer": "Blizzard Entertainment",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Which game company developed World of Warcraft?",
+      "correct_answer": "Blizzard Entertainment",
+      "incorrect_answers": [
         "Nintendo"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Where is the Dark Portal located in Azeroth",
-      "Correct_answer": "Blasted Lands",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Where is the Dark Portal located in Azeroth",
+      "correct_answer": "Blasted Lands",
+      "incorrect_answers": [
         "Tanaris"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Who became warchief after Vol'Jin?",
-      "Correct_answer": "Sylvanas Windrunner",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Who became warchief after Vol'Jin?",
+      "correct_answer": "Sylvanas Windrunner",
+      "incorrect_answers": [
         "Baine Bloodhoof"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Who founded Durotar?",
-      "Correct_answer": "Thrall",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Who founded Durotar?",
+      "correct_answer": "Thrall",
+      "incorrect_answers": [
         "Grom Hellscream"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Which faction has the most players?",
-      "Correct_answer": "The Horde",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Which faction has the most players?",
+      "correct_answer": "The Horde",
+      "incorrect_answers": [
         "The Alliance"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Which skin color had the first orcs?",
-      "Correct_answer": "Brown",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Which skin color had the first orcs?",
+      "correct_answer": "Brown",
+      "incorrect_answers": [
         "Green"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Which expansion did the Hero Class Death Knight become playable?",
-      "Correct_answer": "Wrath of The Lich King",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Which expansion did the Hero Class Death Knight become playable?",
+      "correct_answer": "Wrath of The Lich King",
+      "incorrect_answers": [
         "The Burning Crusade"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "What is the biggest lake in World of Warcraft?",
-      "Correct_answer": "Murky Depths Lake",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "What is the biggest lake in World of Warcraft?",
+      "correct_answer": "Murky Depths Lake",
+      "incorrect_answers": [
         "The Loch"
       ]
     },
     {
-      "Difficulty": "Easy",
-      "Question": "Which boss drops the Warglaives of Azzinoth?",
-      "Correct_answer": "Illidan Stormrage",
-      "Incorrect_answers": [
+      "difficulty": "Easy",
+      "question": "Which boss drops the Warglaives of Azzinoth?",
+      "correct_answer": "Illidan Stormrage",
+      "incorrect_answers": [
         "Archimonde"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Who is the current leader of The Alliance",
-      "Correct_answer": "Anduin Wrynn",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Who is the current leader of The Alliance",
+      "correct_answer": "Anduin Wrynn",
+      "incorrect_answers": [
         "Varian Wrynn",
         "Barathen Wrynn",
         "Llane Wrynn"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Which continent is Shrine of Seven Stars located?",
-      "Correct_answer": "Pandaria",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Which continent is Shrine of Seven Stars located?",
+      "correct_answer": "Pandaria",
+      "incorrect_answers": [
         "Northrend",
         "Kalimdor",
         "Eastern Kingdoms"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Which region do you start in as the race human?",
-      "Correct_answer": "Elwynn Forest",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Which region do you start in as the race human?",
+      "correct_answer": "Elwynn Forest",
+      "incorrect_answers": [
         "Westlands",
         "Eversong Woods",
         "Duskwood"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Who was Arthas Menethil's mentor?",
-      "Correct_answer": "Uther Lightbringer",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Who was Arthas Menethil's mentor?",
+      "correct_answer": "Uther Lightbringer",
+      "incorrect_answers": [
         "Bolvar Fordragon",
         "Varian Wrynn",
         "Tirion Fordring"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Who was the original wielder of Ashbringer?",
-      "Correct_answer": "Alexandros Mograine",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Who was the original wielder of Ashbringer?",
+      "correct_answer": "Alexandros Mograine",
+      "incorrect_answers": [
         "Tirion Fordring",
         "Arthas Menethil",
         "Darion Mograine"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Who was the first Lich King?",
-      "Correct_answer": "Ner'Zul",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Who was the first Lich King?",
+      "correct_answer": "Ner'Zul",
+      "incorrect_answers": [
         "Arthas Menethil",
         "Bolvar Fordragon",
         "Gul'Dan"
       ]
     },
     {
-      "Difficulty": "Normal",
-      "Question": "Who is the leader of the Burning Legion?",
-      "Correct_answer": "Sargeras",
-      "Incorrect_answers": [
+      "difficulty": "Normal",
+      "question": "Who is the leader of the Burning Legion?",
+      "correct_answer": "Sargeras",
+      "incorrect_answers": [
         "Kil'Jaeden",
         "Archimonde ",
         "Jaraxxus"
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "What race is Kil'Jaeden?",
-      "Correct_answer": "Man'ari",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "What race is Kil'Jaeden?",
+      "correct_answer": "Man'ari",
+      "incorrect_answers": [
         "Titan",
         "Annihilan",
         "Nathrezim",
@@ -205,10 +205,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "In which zone in Outland is Black Temple located?",
-      "Correct_answer": "Shadowmoon Valley",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "In which zone in Outland is Black Temple located?",
+      "correct_answer": "Shadowmoon Valley",
+      "incorrect_answers": [
         "Nagrand",
         "Zangarmarsh",
         "Blade's Edge Mountain",
@@ -217,10 +217,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "Choose the real name of the faction",
-      "Correct_answer": "Knights of the Silver Hand",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "Choose the real name of the faction",
+      "correct_answer": "Knights of the Silver Hand",
+      "incorrect_answers": [
         "Knights of the Silver Sword",
         "Knights of the Silver Fang",
         "Knights of the Silver Leg",
@@ -229,10 +229,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "What is the minimum rating you need to become a Gladiator in Player versus Player?",
-      "Correct_answer": "2400",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "What is the minimum rating you need to become a Gladiator in Player versus Player?",
+      "correct_answer": "2400",
+      "incorrect_answers": [
         "2500",
         "2100",
         "2000",
@@ -241,10 +241,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "Who is the secret boss in Ulduar?",
-      "Correct_answer": "Algalon the Observer",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "Who is the secret boss in Ulduar?",
+      "correct_answer": "Algalon the Observer",
+      "incorrect_answers": [
         "Yogg-Saron",
         "Freya",
         "Hodir",
@@ -253,10 +253,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "What is the capital of the orcs?",
-      "Correct_answer": "Orgrimmar",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "What is the capital of the orcs?",
+      "correct_answer": "Orgrimmar",
+      "incorrect_answers": [
         "Undercity",
         "Stormwind",
         "GoldShire",
@@ -265,10 +265,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "What is the capital of the humans?",
-      "Correct_answer": "Stormwind",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "What is the capital of the humans?",
+      "correct_answer": "Stormwind",
+      "incorrect_answers": [
         "Ironforge",
         "Goldshire",
         "Orgrimmar",
@@ -277,10 +277,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "Which dungeon drops Reins of the Raven Lord?",
-      "Correct_answer": "Sethekk Halls",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "Which dungeon drops Reins of the Raven Lord?",
+      "correct_answer": "Sethekk Halls",
+      "incorrect_answers": [
         "Ragefire Chasm",
         "Deadmines",
         "Stone Core",
@@ -289,10 +289,10 @@
       ]
     },
     {
-      "Difficulty": "Hard",
-      "Question": "How many expansions does World of Warcraft have (Shadowlands)?",
-      "Correct_answer": "8",
-      "Incorrect_answers": [
+      "difficulty": "Hard",
+      "question": "How many expansions does World of Warcraft have (Shadowlands)?",
+      "correct_answer": "8",
+      "incorrect_answers": [
         "7",
         "9",
         "6",
